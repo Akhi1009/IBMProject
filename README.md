@@ -1,5 +1,4 @@
-# Project goal - Creating a informative dashboard
-Dashboard Components are
+# Dashboard Components are
 
 # A. Current Technology Usage Tab
 The top 10 programming languages respondents have worked with (`LanguageHaveWorkedWith`).
